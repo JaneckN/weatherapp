@@ -25,7 +25,7 @@
                 <p>{{item.applicable_date}}</p>
                 <p>{{item.weather_state_name}}</p>
                 <p>Min: {{item.min_temp.toFixed(2)}}°C</p>
-                <p>Min: {{item.max_temp.toFixed(2)}}°C</p>
+                <p>Max: {{item.max_temp.toFixed(2)}}°C</p>
                 <p>Humidity:{{item.humidity}}%</p>
                 <p><img v-bind:src="'/images/'+item.weather_state_abbr+'.png'" alt="" width="70" height="70"></p>
             </li>
