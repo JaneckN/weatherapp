@@ -60,7 +60,7 @@
 
         methods: {
             getWeather: function (city) {
-                axios.get("http://localhost:8080/weather/app/" + city).then((response) => {
+                axios.get("https://weatherapp-springboot-vue.herokuapp.com/weather/app/" + city).then((response) => {
                     this.weather = response.data;
                 })
                     .catch(error => {
