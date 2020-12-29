@@ -20,6 +20,7 @@ public class WeatherController {
     private RestTemplate restTemplate;
     private WeatherService weatherService;
 
+
     @Autowired
     public WeatherController(RestTemplate restTemplate, WeatherService weatherService) {
         this.restTemplate = restTemplate;
@@ -35,4 +36,5 @@ public class WeatherController {
         }
         return ResponseEntity.notFound().build();
     }
+
 }
