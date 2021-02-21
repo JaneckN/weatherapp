@@ -1,10 +1,20 @@
 # WeatherApp
 ## Spring Boot and Vue.js App
 
-The SpringBoot&Vue Weather App allows the user to search for the current weather and forecast for a city.
+The WeatherApp allows the user to search for the current weather and forecast for a city.
 
 
-###**Try this app:** https://weatherapp-springboot-vue.herokuapp.com
+<br/>
+<br/>
+:point_right: To Try this app go to :  https://weatherapp-springboot-vue.herokuapp.com :point_left:
+<br/>
+<br/>
+
+![alt text](https://i.postimg.cc/gJFVdLcR/weather.jpg)
+
+*Weather Api:* https://www.metaweather.com/api/ <br/>
+*Available cities:* https://www.metaweather.com/map/. 
 
 
-*Weather Api:* https://www.metaweather.com/api/
+
+[![Visits Badge](https://badges.pufler.dev/visits/JaneckN/weatherapp )](https://badges.pufler.dev)

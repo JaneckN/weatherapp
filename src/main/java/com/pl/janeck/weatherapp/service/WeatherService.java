@@ -15,7 +15,7 @@ import java.util.Optional;
 @Service
 public class WeatherService {
 
-    private static final String WOEID_URL = "https://www.metaweather.com//api/location/";
+    private static final String WOEID_URL = "https://www.metaweather.com/api/location/";
     private static final String LOCATION_URL = "https://www.metaweather.com/api/location/search/?query=";
     private RestTemplate restTemplate;
 
