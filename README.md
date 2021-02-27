@@ -9,7 +9,7 @@
 
 
 
-The WeatherApp allows user to search for the current weather and forecast for a selected city.  I use external weather API (https://www.metaweather.com/api/).
+The WeatherApp allows users to search for the current weather and forecast for a selected city.  I use external weather API (https://www.metaweather.com/api/).
 I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode. 
 
 
