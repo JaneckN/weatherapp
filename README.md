@@ -7,7 +7,6 @@
 <img src="https://badges.pufler.dev/visits/JaneckN/weatherapp">
 </h2>
 
----
 
 
 The WeatherApp allows user to search for the current weather and forecast for a selected city.  I use external weather API (https://www.metaweather.com/api/).
