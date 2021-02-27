@@ -1,7 +1,17 @@
-# WeatherApp
-## Spring Boot and Vue.js App
+<h1 align='center'>WeatherApp</h1>
+<h2 align='center'>Spring Boot and Vue.js App <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+<img src="https://badges.pufler.dev/visits/JaneckN/weatherapp">
+</h2>
 
-The WeatherApp allows the user to search for the current weather and forecast for a city.
+---
+
+
+The WeatherApp allows user to search for the current weather and forecast for a selected city.  I use external weather API (https://www.metaweather.com/api/).
+I learn how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode. 
 
 
 <br/>
@@ -16,5 +26,3 @@ The WeatherApp allows the user to search for the current weather and forecast fo
 *Available cities:* https://www.metaweather.com/map/. 
 
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/JaneckN/weatherapp )](https://badges.pufler.dev)
