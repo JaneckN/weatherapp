@@ -13,13 +13,17 @@ The WeatherApp allows users to search for the current weather and forecast for a
 I have learnt  how to deal with Rest API to consume full response through RestTemplate, and also how to get a single field through JsonNode. 
 
 
-<br/>
-<br/>
-:point_right: To Try this app go to :  https://weatherapp-springboot-vue.herokuapp.com :point_left:
-<br/>
-<br/>
 
-![alt text](https://i.postimg.cc/gJFVdLcR/weather.jpg)
+<h1 align="center"> To get live demo links , please drop me an email on:</h1> 
+<p align="center"> <a href="mailto:janeck@protonmail.com">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<br/>
+<br/>
+<img src="https://i.postimg.cc/gJFVdLcR/weather.jpg">
+
+</p>
+<br/>
+<br/>
 
 *Weather Api:* https://www.metaweather.com/api/ <br/>
 *Available cities:* https://www.metaweather.com/map/. 
